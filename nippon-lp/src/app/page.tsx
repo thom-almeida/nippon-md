@@ -20,7 +20,7 @@ export default function Home() {
               <p>Contribuidores do Nippon🍥</p>
 
               <div className="members">
-                <img src="/members/profile.jpeg" className="over triple-over" alt="" />
+                <img src="/members/bk.jpg" className="over triple-over" alt="" />
                 <img src="/members/eddy.jpg" className="over double-over" alt="" />
                 <img src="/members/jpp.jpg" className="over" alt="" />
                 <img src="/members/joaoo.jpg" className="last" alt="" />

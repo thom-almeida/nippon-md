@@ -10,7 +10,7 @@ export default function Navbar() {
                 </Link>
                 <Link href={'/markdown'}>O que é Markdown?</Link>
                 <Link href={'/contribuir'}>Contribuir</Link>
-                <Link href={'https://github.com/thomalmeidard'}>Open source</Link>
+                <Link href={'https://github.com/thomas-almeida/nippon'}>Open source</Link>
             </ul>
         </nav>
     )
